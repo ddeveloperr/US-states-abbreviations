@@ -106,7 +106,7 @@ names = [
   "Wyoming"];
 
 
-abbrevName = {
+abbr_name = {
   "AL": "Alabama",
   "AK": "Alaska",
   "AZ": "Arizona",
