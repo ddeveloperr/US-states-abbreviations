@@ -1,5 +1,5 @@
-# US-states-abbreviations
-US States name & Abbreviations list
+# US-states-abbreviation list
+US States name & abbreviation list
 ```
 abbreviations = [
   "AL",
